@@ -19,7 +19,7 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
     <a href="https://github.com/pedrosantosdev08?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/pedrosantosdev08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -59,7 +59,7 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. Concluí o ens
     title="Amazon Web Services" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
