@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Santos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. Concluí o ensino médio na Escola Professor Ernesto Silva e atualmente curso **Sistemas de Informação** na **Uninassau**. Sou apaixonado por **tecnologia**, **programação** e sempre busco aprender mais sobre o universo da inovação!
 
