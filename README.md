@@ -45,14 +45,7 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. atualmente cur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="AWS" 
