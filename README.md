@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. atualmente curso **Sistemas de Informação** na **Uninassau**. Sou apaixonado por **tecnologia**, **programação** e sempre busco aprender mais sobre o universo da inovação!
+Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. Atualmente curso **Sistemas de Informação** na **Uninassau**. Sou apaixonado por **tecnologia**, **programação** e sempre busco aprender mais sobre o universo da inovação!
 
 ---
 
@@ -39,13 +39,29 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. atualmente cur
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="Spring Boot" 
     title="Spring Boot" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
-
 <img 
     align="left" 
     alt="AWS" 
@@ -62,7 +78,6 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. atualmente cur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
-
 <br/>
 <br/>
 
