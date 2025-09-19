@@ -8,7 +8,6 @@ Me chamo Pedro Santos, tenho 20 anos e sou natural de Pernambuco. Atualmente cur
 <p align="left"> <a href="https://github.com/pedrosantosdev08?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pedrosantosdev08?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> <a href="https://github.com/pedrosantosdev08?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/pedrosantosdev08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
 💻 Tecnologias que domino
 
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
